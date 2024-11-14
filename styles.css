@@ -1,0 +1,24 @@
+body {
+    background: black;
+    color:red;
+    } 
+    
+    .corinthians2024 img {
+    height: 200px;
+    opacity: 0.5;
+    }
+    .corinthians2024 {
+    overflow-x:auto ;
+    display: flex ;
+    gap: 10px;
+    }
+
+    .corinthians2024 img:hover {
+    opacity: 1.0;
+    border: 5px solid white;
+    }
+
+    hearder {
+    font-size: 40px;
+    }
+    
